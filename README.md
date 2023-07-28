@@ -8,8 +8,12 @@ InstaFoll is Instagram booster followers with bot Account
 pkg update && pkg upgrade
 git clone https://github.com/DemonLord27/instafoll 
 cd instafoll
+pip3 install rich
 python3 run.py
 ```
+one Line Code :
+```pkg update && pkg upgrade && git clone https://github.com/DemonLord27/instafoll && cd instafoll && pip3 install rich && python3 run.py```
+
 
 Copyright © 2023 by DemonLord27 
 
