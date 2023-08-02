@@ -1,7 +1,8 @@
 # InstaFoll
 
 InstaFoll is Instagram booster followers with bot Account 
-
+This Script Created By Demonlord27 
+Do Not Sell This Script,This Script Is Free To Use
 # Setup 
 
 ```
